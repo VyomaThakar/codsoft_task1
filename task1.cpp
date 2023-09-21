@@ -1,5 +1,9 @@
 
 // NOTE :- RUN THIS GAME OR CODE ON TERMINAL WITH THE USE OF G++ COMPILER 
+//Progrmming with c++
+//Guess the Number Game 
+
+
 #include <iostream>
 #include <cstdlib> // for rand() and srand()
 #include <ctime>   // for time()
